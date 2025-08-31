@@ -1,0 +1,3 @@
+name: split-touchpad
+append:
+  EXTRA_DTC_OVERLAY_FILE: split-touchpad.overlay

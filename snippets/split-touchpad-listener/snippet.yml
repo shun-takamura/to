@@ -1,0 +1,4 @@
+# snippets/split-touchpad-listener/snippet.yml
+name: split-touchpad-listener
+append:
+  EXTRA_DTC_OVERLAY_FILE: split-touchpad-listener.overlay
