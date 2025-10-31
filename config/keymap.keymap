@@ -38,11 +38,11 @@
 
         layer_0 {
             bindings = <
-&none  &none           &none     &none           &none                   &none                                                  &none            &none  &none  &none  &none    &none
-&none  &kp Q           &kp L     &kp U           &kp COMMA               &kp PERIOD                                             &kp F            &kp W  &kp R  &kp Y  &kp P    &none
-&none  &kp E           &kp I     &kp A           &kp O                   &kp SEMICOLON        &none             &none           &kp K            &kp T  &kp N  &kp S  &kp H    &none
-&none  &kp Z           &kp X     &kp C           &kp V                   &kp MINUS            &to 1             &to 2           &kp G            &kp D  &kp M  &kp J  &kp B    &none
-&none  &kp LEFT_SHIFT  &kp LGUI  &kp UNDERSCORE  &mt LEFT_ALT BACKSPACE  &mt LSHFT BACKSPACE  &kp INT_MUHENKAN  &kp INT_HENKAN  &mt LCTRL ENTER  &none  &none  &none  &kp TAB  &none
+&none  &none           &none     &none           &none               &none                                                  &none            &none  &none  &none  &none    &none
+&none  &kp Q           &kp L     &kp U           &kp COMMA           &kp PERIOD                                             &kp F            &kp W  &kp R  &kp Y  &kp P    &none
+&none  &kp E           &kp I     &kp A           &kp O               &kp SEMICOLON        &none             &none           &kp K            &kp T  &kp N  &kp S  &kp H    &none
+&none  &kp Z           &kp X     &kp C           &kp V               &kp MINUS            &to 1             &to 2           &kp G            &kp D  &kp M  &kp J  &kp B    &none
+&none  &kp LEFT_SHIFT  &kp LGUI  &kp UNDERSCORE  &mt LEFT_ALT SPACE  &mt LSHFT BACKSPACE  &kp INT_MUHENKAN  &kp INT_HENKAN  &mt LCTRL ENTER  &none  &none  &none  &kp TAB  &none
             >;
         };
 
