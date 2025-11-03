@@ -48,11 +48,11 @@
 
         layer_1 {
             bindings = <
-&trans  &trans          &trans        &trans          &trans           &trans                                &trans              &trans             &trans            &trans             &trans   &trans
-&trans  &kp F1          &kp F2        &kp F3          &kp F4           &kp F5                                &kp F6              &kp F7             &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp F10  &trans
-&trans  &kp NUMBER_1    &kp NUMBER_2  &kp NUMBER_3    &kp NUMBER_4     &kp N5                &trans  &trans  &kp NUMBER_6        &kp N7             &kp N8            &kp N9             &kp N0   &trans
-&trans  &kp LEFT_SHIFT  &kp ASTERISK  &kp SLASH       &kp PLUS         &kp MINUS             &none   &to 2   &trans              &kp DOUBLE_QUOTES  &kp BACKSLASH     &trans             &trans   &trans
-&trans  &kp LEFT_SHIFT  &trans        &kp UNDERSCORE  &mt LCTRL SPACE  &mt LSHIFT BACKSPACE  &to 0   &to 0   &mt LEFT_ALT ENTER  &trans             &trans            &kp LEFT_ALT       &kp TAB  &trans
+&trans  &trans          &trans             &trans          &trans           &trans                                &trans              &trans             &trans             &trans         &trans   &trans
+&trans  &kp F1          &kp F2             &kp F3          &kp F4           &kp F5                                &kp F6              &kp F7             &kp RIGHT_BRACKET  &kp BACKSLASH  &kp F10  &trans
+&trans  &kp NUMBER_1    &kp NUMBER_2       &kp NUMBER_3    &kp NUMBER_4     &kp N5                &trans  &trans  &kp NUMBER_6        &kp N7             &kp N8             &kp N9         &kp N0   &trans
+&trans  &kp LEFT_SHIFT  &kp DOUBLE_QUOTES  &kp SLASH       &kp SEMICOLON    &kp MINUS             &none   &to 2   &trans              &kp DOUBLE_QUOTES  &kp BACKSLASH      &kp INT_YEN    &trans   &trans
+&trans  &kp LEFT_SHIFT  &trans             &kp UNDERSCORE  &mt LCTRL SPACE  &mt LSHIFT BACKSPACE  &to 0   &to 0   &mt LEFT_ALT ENTER  &trans             &trans             &kp LEFT_ALT   &kp TAB  &trans
             >;
         };
 
