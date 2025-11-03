@@ -42,7 +42,7 @@
 &none  &kp Q           &kp L     &kp U           &kp PERIOD       &kp COMMA                                      &kp F                &kp W  &kp R  &kp Y  &kp P    &none
 &none  &kp E           &kp I     &kp O           &kp A            &kp SEMICOLON        &none        &none        &kp K                &kp T  &kp N  &kp S  &kp H    &none
 &none  &kp Z           &kp X     &kp C           &kp V            &kp MINUS            &to 1        &to 2        &kp G                &kp D  &kp M  &kp J  &kp B    &none
-&none  &kp LEFT_SHIFT  &kp LGUI  &kp UNDERSCORE  &mt LCTRL SPACE  &mt LSHFT BACKSPACE  &lt 2 LANG1  &lt 1 LANG2  &mt RIGHT_ALT ENTER  &none  &none  &none  &kp TAB  &none
+&none  &kp LEFT_SHIFT  &kp LGUI  &kp UNDERSCORE  &mt LCTRL SPACE  &mt LSHFT BACKSPACE  &lt 2 LANG2  &lt 1 LANG1  &mt RIGHT_ALT ENTER  &none  &none  &none  &kp TAB  &none
             >;
         };
 
